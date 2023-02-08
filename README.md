@@ -1,7 +1,7 @@
 # SP-500-stock-Market-forecasting-
 
 ### Introduction:
-This repository consists of four notebooks, each with a descriptive readme file that explains the work done in each of them.
+This repository consists of four notebooks, each with a descriptive readme file that explains the work done in each of them.<br/> 
   1-Preparing the Data for Stock Market Analysis - Data Cleaning and Preprocessing.ipynb <br/> 
   2- In-Depth EDA of S&P 500 Stocks  Uncovering Trends and Patterns.ipynb<br/> 
   3- [LSTM]Stock Price  Time Series Forecasting using LSTM with Hyperparameter Tuning and Regularization Techniques.ipynb<br/> 
